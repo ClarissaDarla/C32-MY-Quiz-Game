@@ -1,1 +1,1 @@
-# C32-MY-Quiz-Game
+# project-template-myquiz
